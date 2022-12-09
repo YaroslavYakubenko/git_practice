@@ -77,6 +77,8 @@ def person(**kwargs):
 
 print(person(name='John', last_name='Smith', age=35, position='web developer'))
 
+
+
 # from functools import *
 # my_list = [20, -3, 15, 2, -1, -21]
 # my_list = reduce(lambda x, y: x*y, my_list)
